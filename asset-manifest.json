@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fashiongeek/static/css/main.07f31fe7.css",
+    "main.js": "/fashiongeek/static/js/main.20e9775c.js",
+    "index.html": "/fashiongeek/index.html",
+    "main.07f31fe7.css.map": "/fashiongeek/static/css/main.07f31fe7.css.map",
+    "main.20e9775c.js.map": "/fashiongeek/static/js/main.20e9775c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f31fe7.css",
+    "static/js/main.20e9775c.js"
+  ]
+}
